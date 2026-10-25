@@ -42,7 +42,7 @@ export function UnlockScreen({ onUnlock }) {
           </div>
 
           <h1 className="text-xl font-semibold">
-            Finora
+            Control de gastos
           </h1>
 
           <p className="text-sm text-[#6B7A72]">
